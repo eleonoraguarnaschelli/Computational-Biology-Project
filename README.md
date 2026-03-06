@@ -1,8 +1,4 @@
-# Computational Biology Project
-Design and Implement simple individual-based simulations of evolution
-
-Evolutionary Dynamics Simulation with Fisher’s Geometrical Model
-
+# Computational Biology Project: Design and Implement simple individual-based simulations of evolution
 Simulation of evolutionary dynamics in asexual populations using individual-based models and Fisher’s Geometrical Model (FGM).
 The project explores how mutation rates, environmental changes, and phenotypic complexity influence evolutionary adaptation.
 
